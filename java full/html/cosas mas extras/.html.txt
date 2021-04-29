@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>blog ficticio</title>
+</head>
+
+<body>
+    <h1>Michael Jordan</h1>
+    <img id="logo" src="https://www.radioexpress-fm.com/wp-content/uploads/2020/05/fotomurales-michael-jordan.png" width="200" height="200">
+    <p>mi nombre es michael soy un jugador de la nba y este es mi blog falso</p>
+    <table class="default">
+
+        <tr>
+
+            <th>Año</th>
+
+            <th>PPG</th>
+
+            <th>MPV</th>
+
+        </tr>
+
+        <tr>
+
+            <td>1990-91</td>
+
+            <td>31.5</td>
+
+            <td>SI</td>
+
+        </tr>
+
+        <tr>
+
+            <td>1991-92</td>
+
+            <td>30.1</td>
+
+            <td>SI</td>
+
+        </tr>
+
+        <tr>
+
+            <td>1992-93</td>
+
+            <td>32.6</td>
+
+            <td>NO</td>
+
+        </tr>
+
+        <tr>
+
+            <td>1995-96</td>
+
+            <td>30.4</td>
+
+            <td>SI</td>
+
+        </tr>
+
+        <tr>
+
+            <td>1996-97</td>
+
+            <td>29.6</td>
+
+            <td>NO</td>
+
+        </tr>
+
+        <tr>
+
+            <td>1997-98</td>
+
+            <td>28.7</td>
+
+            <td>SI</td>
+
+        </tr>
+
+    </table>
+    <ul>
+        <li>1984 - 1983 Chicago Bulls</li>
+        <li>1995 - 1998 Chicago Bulls</li>
+        <li>2001 - 2003 Washington Wizards</li>
+    </ul>
+    <a href="">Has clic acá por un increible video destacado</a>
+    <h1>Por favor, contesta esta breve encuesta</h1>
+    <label for="email">Email: </label>
+    <input type="email" id="email" name="email"><br><br>
+    <div class="respuestas">
+        <input type="radio" name="preg1" value="1" /> Sí, por favor enviame montones de correos<br />
+        <input type="radio" name="preg1" value="2" /> No por favor, no me mandes ningún correo<br />
+    </div>
+    <p>¿Cómo supiste de nosotros?</p>
+    <div class="respuestas">
+        <input type="radio" name="preg1" value="1" /> Facebook<br />
+        <input type="radio" name="preg1" value="2" /> El periodico<br />
+        <input type="radio" name="preg1" value="2" /> Un contacto<br />
+    </div>
+
+    <input type="button" value="Enviar">
+
+</body>

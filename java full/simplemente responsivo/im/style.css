@@ -1,0 +1,19 @@
+.boton {
+    width: 300px;
+    height: 175px;
+}
+@media only screen and (max-width: 750px){
+    .boton {
+        background-color: yellow;
+    }
+}
+@media only screen and (min-width: 620px){
+    .boton {
+        background-color: blue;
+    }
+}
+@media only screen and (min-width: 1228px){
+    .boton {
+        background-color: red;
+    }
+}

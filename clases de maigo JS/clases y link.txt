@@ -1,0 +1,156 @@
+https://playcode.io/new/
+cosas que podrian ayudar
+
+
+
+
+
+
+
+var v = [1,2,3,4,5];
+
+for (var w = 0; w < v.length; w++) {
+    v.pop();
+}
+console.log(v);
+
+var v = [1,2,3,4,5];
+for (var w = 0; w < v.length; w++) {
+    v.pop();
+    console.log(v.length)
+}
+console.log(v);
+
+https://us02web.zoom.us/j/84964724043
+
+clases diarias
+19/03
+https://us02web.zoom.us/rec/share/PowDwMYS4xvTeWpTlPfdVRNfOFIOlIf79YJyvLKpjS6VoRIDKH5MmxLLKkQR1f0O.x23YPJXkFvP7y9UL
+
+
+https://html-css-js.com/css/generator/box-shadow/
+
+
+
+
+
+
+https://learn.codingdojo.com/signin
+
+https://us02web.zoom.us/postattendee?id=2
+
+
+
+https://us02web.zoom.us/rec/share/dr4QcQrCCuRJ08U_y7VJnK-ZB1k7l5CCCQ9LbaTeKuIPkZdChPFJaPxeyqRoAcpW.pg1GY5zDsaPA60ud
+clase 2
+
+https://us02web.zoom.us/rec/share/9l0AlP4u_HTcViF35HdNNzjMHgQx9fpekiW_sd5_Uh6h1ph3T8zo3x_4Q_BKYmYK.L8bXNXV-Xfcrh6F1
+clase 3
+
+[11:08, 16/3/2021] Mlll: https://www.w3schools.com/jsref/jsref_operators.asp
+[11:08, 16/3/2021] Mlll: https://www.w3schools.com/jsref/jsref_pop.asp
+[11:09, 16/3/2021] Mlll: https://www.w3schools.com/js/default.asp
+[11:09, 16/3/2021] Mlll: https://brave.com/es/
+[11:29, 16/3/2021] Mlll: https://us02web.zoom.us/j/84964724043
+[9:54, 17/3/2021] Mlll: https://learn.codingdojo.com/dashboard
+[10:57, 17/3/2021] Mlll: var x= 20;
+
+function nombre()
+{
+	console.log("llamado a la funcion")
+	var z= 10;
+    b(z);
+	console.log(x);
+}
+function b(z){
+console.log("funcion b "+z);
+}
+
+nombre(); 
+console.log(x);
+[10:57, 17/3/2021] Mlll: function zzz(a,b){
+    console.log(a);
+    console.log(b);
+}
+var numero1= 3;
+var numero2= 5;
+zzz(numero1,numero2);
+zzz(4,6);
+[11:14, 17/3/2021] Mlll: function zzz(arreglo){
+    console.log(arreglo);
+}
+var numero1= [3,5,7,9];
+zzz(numero1);
+zzz([2,4,6,8]);
+
+clase viernes
+
+var x = [
+      ["coding","boom"],
+      ["dojo","yeah"]
+]
+x.length = 2
+x[0]=["coding","boom"]
+x[1]=["dojo","yeah","otro"]
+
+x[0].length = 2
+x[1].length = 2
+X[0][0]="coding"
+X[0][1]=""boom"
+
+X[1][0]="dojo"
+X[1][1]="yeah"
+
+X[1][2]="otro"
+
+console.log(x[0][0] + "-" + x[1][0]);
+console.log("coding" + "-" + "dojo");
+"coding-dojo"
+
+
+cosas por installar
+
+ndent Rainbow
+Open in browser (el primero)
+HTML Snippets
+JS-
+Auto rename tag
+Me falta sólo el que decía JS-CSS… alguien tiene el nombre?
+From Daniel Cid Coronado to Everyone:  10:51 AM
+js-css-html formater
+From Cristian VILLALOBOS to Everyone:  10:51 AM
+Gracias!
+EXTENSIONES VS CodeIndent Rainbow
+Open in browser (el primero)
+HTML Snippets
+JS-CSS-HTML Formater
+Auto rename tag
+
+ejemplo de ejercicio 
+
+<html>
+<head>
+    <script>
+        function imprimeHasta(x) {
+        // escribe tu código aquí
+            if(x < 1){
+                return false;
+            }
+
+            for(var i = 1; i<=x; i++)
+            {
+                console.log(i);
+            } 
+
+        }
+        imprimeHasta(100); 
+        // debe imprimir todos los enteros desde el 1 hasta el 1000000
+        y = imprimeHasta(-100000000000); 
+        console.log(y); // debe imprimir 'false'
+    </script>
+
+</head>
+<body></body>
+</html>
+
+

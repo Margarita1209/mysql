@@ -1,0 +1,62 @@
+div{
+
+    border-style: solid ;
+    border-color: red;
+}
+
+#menu3{
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+     
+}
+
+#contenido4{
+    display: inline-block;
+    width: 800px;
+
+}
+
+
+#logo{
+    width: 100px;
+    height: 100px;
+}
+#clserv{
+    width: 300px;
+   
+}
+#boton1{
+    background-color: rgb(68, 126, 174);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    border-radius: 5px;
+    border-style: hidden;
+    box-shadow: 2px 2px 5px 1px rgb(142, 142, 142) ;
+
+}
+
+#header1_cont{
+    display: inline-block;
+    width: 45%;
+
+}
+#header2_cont{
+
+    display: inline-block;
+    width: 45%;
+    text-align: right;
+}
+
+table {
+    border: 5px solid rgb( 0,135,221);
+    border-collapse: collapse;
+
+   
+  }
+
+
+

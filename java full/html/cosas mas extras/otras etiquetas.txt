@@ -1,0 +1,48 @@
+para referenciar una imagen
+
+<script src="main.js"></script>
+<link rel="stylesheet" href="style.css">
+
+
+canvas
+
+<canvas id="obra_de_arte" width="400" height="200">
+    <p>Tu navegador no es compatible con canvas</p>
+</canvas>
+
+insertar archivos de audio en html
+
+<audio src="desperado.mp3">
+</audio>
+
+
+autoplay
+
+<audio src="desperado.mp3" autoplay>
+</audio>
+
+
+autoplay loop
+
+<audio src="desperado.mp3copy" autoplay loop>
+</audio>
+
+ puedes darle el control solicitando al navegador controles nativos para dar play o pausa al audio, además de poder ajustar el volumen.
+
+<audio src="desperado.mp3" controls>
+</audio>
+
+compatibilidad de audio
+
+<audio controls>
+    <source src="desperado.ogg">
+    <source src="desperado.mp3">
+</audio>
+
+
+compatibilidad de videos en distintos navegadores
+
+<video width="400" height="200" poster="picture.jpg" controls>
+    <source src="caddyshack.ogv">
+    <source src="movie.mp4">
+</video>

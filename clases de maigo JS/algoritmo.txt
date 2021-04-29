@@ -1,0 +1,26 @@
+
+
+function imprimir(numero){
+  var concatenar="";
+  if(numero<=0){
+    return false;
+ 
+  }
+  else{
+    for (var i=0; i<=numero; i++){
+      if(numero==i){
+        concatenar = concatenar+i;
+      }
+      else{
+
+      concatenar = concatenar+i+",";
+           // concatenar = '0,1,2';
+      }
+    }
+  }
+
+  return concatenar;
+}
+
+ var c =imprimir(-10);
+console.log(c);
