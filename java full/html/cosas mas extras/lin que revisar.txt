@@ -1,8 +1,0 @@
-https://en.wikipedia.org/wiki/Semantic_HTML
-
-http://validator.w3.org/
-https://www.w3schools.com/html/html5_canvas.asp
-https://www.w3schools.com/tags/tag_audio.asp
-https://www.w3schools.com/html/html5_video.asp
-https://www.w3schools.com/html/html5_semantic_elements.asp
-https://www.w3schools.com/html/default.asp
